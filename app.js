@@ -1,0 +1,1 @@
+console myName ('Aji Saputra');
