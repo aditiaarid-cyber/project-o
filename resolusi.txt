@@ -1,4 +1,5 @@
 1. membuat website yg berisikan board game didalamnya
 2. mempublikasikan website tersebut sehingga bisa dimainkan online
 3. merealisasikan project tersebut
-4. membuat project ini berkembang
+
+5. membuat fitur a
