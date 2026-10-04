@@ -1,2 +1,3 @@
 1. membuat website yg berisikan board game didalamnya
 2. mempublikasikan website tersebut sehingga bisa dimainkan online
+3. merealisasikan project tersebut
